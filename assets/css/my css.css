@@ -1,0 +1,73 @@
+.w3l-banner:before
+{
+    background-color: rgba(19, 18, 16, 0.781) !important;
+}
+header.nav-fixed
+{
+    background-color: rgba(19, 18, 16, 0.781) !important;
+}
+.btn-primary
+{
+    background-color: chocolate !important;
+    border-color: chocolate !important;
+}
+.btn-primary:hover {
+    color: #0e0101;
+    background-color: rgb(139 130 11) !important;
+    border-color: yellowgreen !important;
+  }
+.fab
+{
+    color:rgb(139 101 11) ;
+}
+.about-icon i
+{
+    color:rgb(139 101 11) !important;
+}
+#movetop
+{
+    background: rgb(139 101 11) !important;;
+}
+a.btn.btn-border
+{
+    color: rgb(139 101 11) !important;
+}
+.w3l-content-6 .progress-bar
+{
+    background: rgb(139 101 11) !important;;
+}
+.about-single:hover h5 a
+{
+    color: rgb(139 101 11) !important;
+}
+.grids_info i
+{
+    color: rgb(139 101 11) !important;
+}
+.size img
+{
+    height: 250px !important;
+    width: 100% !important;
+}
+/* about open */
+.breadcrumb-bg-about:before
+{
+    background: rgba(19, 18, 16, 0.781) !important;
+}
+.w3l-join
+{
+    margin: 5px 0px 100px 0px;
+}
+.w3l-join:before
+{
+    background: rgba(19, 18, 16, 0.781) !important;
+}
+/* about colsed  */
+a:hover
+{
+    color: rgb(139 101 11) !important;
+}
+.social ul li a span:hover
+{
+    background-color: crimson !important;
+}
